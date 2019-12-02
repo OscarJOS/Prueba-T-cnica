@@ -60,7 +60,10 @@ Comentarios:
 - Para ejecutar este archivo se necesita tener instalado:
     - pandas
 
-    
+--------------------------------------------------------------------------------
 
+Por último, esta prueba queda en el siguiente repositorio de github:
+https://github.com/OscarJOS/Prueba-T-cnica
 
 Oscar Forero
+github: https://github.com/OscarJOS
